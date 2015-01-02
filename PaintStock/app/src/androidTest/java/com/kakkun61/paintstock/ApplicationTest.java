@@ -1,4 +1,4 @@
-package com.kakkun61.inkstock;
+package com.kakkun61.paintstock;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
